@@ -58,4 +58,4 @@ This project is licensed under the MIT License.
 - **Website:** https://ovato.com
 - **Support Email:** support@ovato.com
 - **Twitter:** https://x.com/OvatoCoin
-- **Telegram:** @Ovato_Coin
+- **Telegram:** https://t.me/+6-aAu6xipqFmOGY5
