@@ -3,10 +3,10 @@
 ![Your Token Logo](https://res.cloudinary.com/commerce/image/upload/v1725997493/q36rwrx5kspwkg6qvhvf.png)  
 
 ## Overview
-Ovato is a next-generation digital asset built on the Polygon blockchain. Designed for seamless, low-cost transactions, it serves as the foundation for super fast transactions that settle over the blockchain within seconds. Ovato provides an end to end solution allowing merchants and consumers to have a closed ecosystem allowing commerce to become more frictionless and eliminating inefficiencies.
+Ovato is a next-generation digital asset built to revolutionize the way we think about blockchain transactions. Designed for seamless, low-cost transactions, it serves as the foundation for super fast transactions that settle over the blockchain within seconds. Ovato provides an end to end solution allowing merchants and consumers to have a closed ecosystem allowing commerce to become more frictionless and eliminating inefficiencies.
 
 ## Key Features
-- **Low Transaction Fees:** Operating on the Polygon network, Ovato ensures transactions are fast and cost-effective.
+- **Low Transaction Fees:** Ovato leverages an innovative blockchain structure that moves beyond the limitations of conventional token standards. This unique design allows for enhanced transaction throughput and reduced fees, ensuring faster, more cost-effective operations.
 - **Advanced Token Framework:** Unlike traditional digital currencies, Ovato leverages a unique smart contract design for maximum compatibility and performance, while integrating advanced features for community growth and real-world utility.
 - **Utility:**  Incentives that range from economic to societal in order to aid in our community to adopt our digital currency. We also provide tools as well as economic incentives to help our community help with its growth an adoption. Our focus is to be able to send money almost instantly and that will settle over the Blockchain in about 10 seconds for fractions of other digital currencies
 
