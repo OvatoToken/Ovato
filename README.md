@@ -40,13 +40,12 @@ Make sure to verify this address before making any transactions.
 
 ## How to Interact
 You can interact with Ovato via:
-1. **PolygonScan:** https://polygonscan.com/token/0xe1b0e0f0427af6f943cdeb6304eed259d152fc78
-2. **DeFi Platforms/DEX:** p2pb2b, Lbank.
+1. **Ovato wallet:** https://wallet.ovato.com
+2. **PolygonScan:** https://polygonscan.com/token/0xe1b0e0f0427af6f943cdeb6304eed259d152fc78
+3. **DeFi Platforms/DEX:** p2pb2b, Lbank.
 
 ## Smart Contract Details
-The source code for the token contract can be found in this repository. It has been verified and follows the advanced token framework standard designed specifically for Ovato’s ecosystem:
-
-https://github.com/OvatoToken/Ovato
+The source code for the token contract can be found in this repository. It has been verified and follows the advanced token framework standard designed specifically for Ovato’s ecosystem.
 
 
 ## License
