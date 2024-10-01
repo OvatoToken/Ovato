@@ -1,4 +1,4 @@
-# Ovato (OVO)
+# Ovato (OVATO)
 
 ![Your Token Logo](https://res.cloudinary.com/commerce/image/upload/v1725997493/q36rwrx5kspwkg6qvhvf.png)  
 
