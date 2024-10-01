@@ -3,7 +3,7 @@
 ![Your Token Logo](https://res.cloudinary.com/commerce/image/upload/v1725997493/q36rwrx5kspwkg6qvhvf.png)  
 
 ## Overview
-Ovato is a next-generation digital asset built to revolutionize the way we think about blockchain transactions. Designed for seamless, low-cost transactions, it serves as the foundation for super fast transactions that settle over the blockchain within seconds. Ovato provides an end to end solution allowing merchants and consumers to have a closed ecosystem allowing commerce to become frictionless, hence eliminating inefficiencies.
+Ovato is a next-generation digital asset, built to revolutionize the way we think about blockchain transactions. Designed for seamless, low-cost transactions, it serves as the foundation for super fast transactions that settle over the blockchain within seconds. Ovato provides an end-to-end solution, enabling merchants and consumers to have a closed ecosystem. This allows commerce to become frictionless, hence eliminating inefficiencies.
 
 ## Key Features
 - **Low Transaction Fees:** Ovato leverages an innovative blockchain structure that moves beyond the limitations of conventional token standards. This unique design allows enhanced transaction throughput and reduced fees, ensuring faster, more cost-effective operations.
@@ -25,10 +25,10 @@ Make sure to verify this address before making any transactions.
 - **Start With A Basic Wallet:**
     Receive some tokens from the person who introduced you to Ovato and experience firsthand how easy and secure the platform is.
 
-  **Get Premium Earn on Everything: **
+  **Get Premium Earn on Everything:** 
     Build a business and earn multiple streams of revenue on all of your networks actions like buying or selling NFTs, and doing Ovato transactions.
 
-  **Join the Movement - The DAO: **
+  **Join the Movement - The DAO:** 
     Discover how you can join our community and help shape it while doing charity to your local community transparently.
 - Available on **p2pb2b, Lbank**
 
@@ -44,7 +44,7 @@ Make sure to verify this address before making any transactions.
 You can interact with Ovato via:
 1. **Ovato wallet:** https://wallet.ovato.com
 2. **PolygonScan:** https://polygonscan.com/token/0xe1b0e0f0427af6f943cdeb6304eed259d152fc78
-3. **DeFi Platforms/DEX:** p2pb2b, Lbank.
+3. **Exchanges:** p2pb2b, Lbank.
 
 ## Smart Contract Details
 The source code for the token contract can be found in this repository. It has been verified and follows the advanced token framework standard designed specifically for Ovato’s ecosystem.
