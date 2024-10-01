@@ -26,7 +26,7 @@ Make sure to verify this address before making any transactions.
     Receive some tokens from the person who introduced you to Ovato and experience firsthand how easy and secure the platform is.
 
   **Get Premium Earn on Everything:** 
-    Build a business and earn multiple streams of revenue on all of your networks actions like buying or selling NFTs, and doing Ovato transactions.
+    Build a business and earn multiple streams of revenue on all of your networks actions like buying or selling NFTs, doing Ovato transactions, and becoming Ovato influencer .
 
   **Join the Movement - The DAO:** 
     Discover how you can join our community and help shape it while doing charity to your local community transparently.
