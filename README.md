@@ -8,7 +8,6 @@ Ovato is a next-generation digital asset, built to revolutionize the way we thin
 ## Key Features
 - **Low Transaction Fees:** Ovato leverages an innovative blockchain structure that moves beyond the limitations of conventional token standards. This unique design allows enhanced transaction throughput and reduced fees, ensuring faster, more cost-effective operations.
 
-- **Advanced Token Framework:** Unlike traditional digital currencies, Ovato leverages a unique smart contract design for maximum compatibility and performance, while integrating advanced features for community growth and real-world utility.
 
 - **Utility:**  Incentives range from economic to societal, in order to aid our community to seamlessly adopt our digital currency. We also provide tools and economic incentives to help our community help with its growth and adoption. Our focus is to be able to send money almost instantly, that will settle over the Blockchain in about 10 seconds, which is just a fraction of other digital currencies.
 
