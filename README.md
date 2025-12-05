@@ -17,8 +17,10 @@ Ovato is a next-generation digital asset, built to revolutionize the way we thin
 Make sure to verify this address before making any transactions.
 
 ## Total Supply
-- **Max Supply:** 950,400,000
-- **Circulating Supply:** 344,400,000
+- **Max Supply:** 950,000,000
+- **Outstanding:** 344,400,000
+- **Circulating Supply:** 144,400,000
+- **Locked:** 200,000,000
 
 ## How to Get Ovato
 - **Start With A Basic Wallet:**
@@ -32,7 +34,7 @@ Make sure to verify this address before making any transactions.
 | Parameter          | Value                      |
 |--------------------|----------------------------|
 | Token Type         | Ovato Digital Asset        |
-| Max Supply         | 344,400,000                |
+| Max Supply         | 950,000,000                |
 | Decimals           | 18                         |
 
 
